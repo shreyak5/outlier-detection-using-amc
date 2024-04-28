@@ -26,7 +26,7 @@ U Adithyan - CS23BTNCL11001
 - Run `Saliency_AMC_AE.m`
 
 (v) Making Final Inferences
-- Run the command `python inference.py --dataset={dataset_name}` where `dataset_name` is same as the one used in first step. This should print final results and save an image containig all the scatter plots.
+- Run the command `python inference.py --dataset={dataset_name}` where `dataset_name` is same as the one used in first step. This should print final results and save an image containing all the scatter plots.
 
 ## References:
 [1] B. Jiang, L. Zhang, H. Lu, C. Yang and M. -H. Yang, "Saliency Detection via Absorbing Markov Chain," 2013 IEEE International Conference on Computer Vision, Sydney, NSW, Australia, 2013, pp. 1665-1672, doi: 10.1109/ICCV.2013.209. 
